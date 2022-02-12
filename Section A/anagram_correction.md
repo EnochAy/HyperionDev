@@ -10,3 +10,5 @@ class Solution:
       return list(result.values())
 ob1 = Solution() #Solution is not defined Pylance("Solution" is not definedPylancereportUndefinedVariable)
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+
+Dear Student, please, note the corrections in the lines of codes above.
