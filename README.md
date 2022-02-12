@@ -9,7 +9,7 @@ For this section, I use Python.
 
 Section B
 Submit the best previous project.
-Here, I chose one of my favourite projects I worked on previously, HR Analytics.
+Here, I chose one of my favourite projects I had worked on previously, HR Analytics: Job Change of Data Scientists.
 
 Section C
 For this Section, I used R programming language.
